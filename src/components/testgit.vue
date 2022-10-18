@@ -1,5 +1,7 @@
 <template>
-  
+  <div>
+    <p>测试合并</p>
+  </div>
 </template>
 
 <script>
