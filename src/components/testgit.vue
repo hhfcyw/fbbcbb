@@ -1,6 +1,7 @@
 <template>
   <div>
-    <p>测试合并</p>
+    <p>测试合并--cbb上传</p>
+    <p>cbb上传</p>
   </div>
 </template>
 
